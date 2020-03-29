@@ -1,0 +1,413 @@
+{
+    "factory": [
+        {
+            "_id": "5e7fb2fdbd02c7e73d7c674e",
+            "features": [
+                {
+                    "control": [
+                        {
+                            "measure": [
+                                {
+                                    "_id": "5e7fb2fdbd02c7e73d7c6751",
+                                    "name": "x",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#ffff00"
+                                },
+                                {
+                                    "_id": "5e7fb2fdbd02c7e73d7c6752",
+                                    "name": "y",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#91ff1b"
+                                },
+                                {
+                                    "_id": "5e7fb2fdbd02c7e73d7c6753",
+                                    "name": "z",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#ff2c14"
+                                },
+                                {
+                                    "_id": "5e7fb2fdbd02c7e73d7c6754",
+                                    "name": "diameter",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": null
+                                },
+                                {
+                                    "_id": "5e7fb2fdbd02c7e73d7c6755",
+                                    "name": "x",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#ffff00"
+                                },
+                                {
+                                    "_id": "5e7fb2fdbd02c7e73d7c6756",
+                                    "name": "y",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#91ff1b"
+                                },
+                                {
+                                    "_id": "5e7fb2fdbd02c7e73d7c6757",
+                                    "name": "z",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#ff2c14"
+                                },
+                                {
+                                    "_id": "5e7fb2fdbd02c7e73d7c6758",
+                                    "name": "diameter",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": null
+                                }
+                            ],
+                            "_id": "5e7fb2fdbd02c7e73d7c6750"
+                        }
+                    ],
+                    "_id": "5e7fb2fdbd02c7e73d7c674f",
+                    "name": "Feature Name"
+                },
+                {
+                    "control": [
+                        {
+                            "measure": [
+                                {
+                                    "_id": "5e7fb81c7db96ce9bfe86ba8",
+                                    "name": "x",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#ffff00"
+                                },
+                                {
+                                    "_id": "5e7fb81c7db96ce9bfe86ba9",
+                                    "name": "y",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#91ff1b"
+                                },
+                                {
+                                    "_id": "5e7fb81c7db96ce9bfe86baa",
+                                    "name": "z",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#ff2c14"
+                                },
+                                {
+                                    "_id": "5e7fb81c7db96ce9bfe86bab",
+                                    "name": "diameter",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": null
+                                },
+                                {
+                                    "_id": "5e7fb81c7db96ce9bfe86bac",
+                                    "name": "x",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#ffff00"
+                                },
+                                {
+                                    "_id": "5e7fb81c7db96ce9bfe86bad",
+                                    "name": "y",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#91ff1b"
+                                },
+                                {
+                                    "_id": "5e7fb81c7db96ce9bfe86bae",
+                                    "name": "z",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#ff2c14"
+                                },
+                                {
+                                    "_id": "5e7fb81c7db96ce9bfe86baf",
+                                    "name": "diameter",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": null
+                                }
+                            ],
+                            "_id": "5e7fb81c7db96ce9bfe86ba7"
+                        }
+                    ],
+                    "_id": "5e7fb81c7db96ce9bfe86ba6",
+                    "name": "Feature Name B"
+                },
+                {
+                    "control": [
+                        {
+                            "measure": [
+                                {
+                                    "_id": "5e7fb89e7f9b24ea00a89e81",
+                                    "name": "x",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#ffff00"
+                                },
+                                {
+                                    "_id": "5e7fb89e7f9b24ea00a89e82",
+                                    "name": "y",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#91ff1b"
+                                },
+                                {
+                                    "_id": "5e7fb89e7f9b24ea00a89e83",
+                                    "name": "z",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#ff2c14"
+                                },
+                                {
+                                    "_id": "5e7fb89e7f9b24ea00a89e84",
+                                    "name": "diameter",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": null
+                                },
+                                {
+                                    "_id": "5e7fb89e7f9b24ea00a89e85",
+                                    "name": "x",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#ffff00"
+                                },
+                                {
+                                    "_id": "5e7fb89e7f9b24ea00a89e86",
+                                    "name": "y",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#91ff1b"
+                                },
+                                {
+                                    "_id": "5e7fb89e7f9b24ea00a89e87",
+                                    "name": "z",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#ff2c14"
+                                },
+                                {
+                                    "_id": "5e7fb89e7f9b24ea00a89e88",
+                                    "name": "diameter",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": null
+                                }
+                            ],
+                            "_id": "5e7fb89e7f9b24ea00a89e80"
+                        }
+                    ],
+                    "_id": "5e7fb89e7f9b24ea00a89e7f",
+                    "name": "Feature Name C"
+                },
+                {
+                    "control": [
+                        {
+                            "measure": [
+                                {
+                                    "_id": "5e7fb8b67f9b24ea00a89ea9",
+                                    "name": "x",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#ffff00"
+                                },
+                                {
+                                    "_id": "5e7fb8b67f9b24ea00a89eaa",
+                                    "name": "y",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#91ff1b"
+                                },
+                                {
+                                    "_id": "5e7fb8b67f9b24ea00a89eab",
+                                    "name": "z",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#ff2c14"
+                                },
+                                {
+                                    "_id": "5e7fb8b67f9b24ea00a89eac",
+                                    "name": "diameter",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": null
+                                },
+                                {
+                                    "_id": "5e7fb8b67f9b24ea00a89ead",
+                                    "name": "x",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#ffff00"
+                                },
+                                {
+                                    "_id": "5e7fb8b67f9b24ea00a89eae",
+                                    "name": "y",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#91ff1b"
+                                },
+                                {
+                                    "_id": "5e7fb8b67f9b24ea00a89eaf",
+                                    "name": "z",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#ff2c14"
+                                },
+                                {
+                                    "_id": "5e7fb8b67f9b24ea00a89eb0",
+                                    "name": "diameter",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": null
+                                }
+                            ],
+                            "_id": "5e7fb8b67f9b24ea00a89ea8"
+                        }
+                    ],
+                    "_id": "5e7fb8b67f9b24ea00a89ea7",
+                    "name": "Feature Name D"
+                },
+                {
+                    "control": [
+                        {
+                            "measure": [
+                                {
+                                    "_id": "5e7fb8bf7f9b24ea00a89edb",
+                                    "name": "x",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#ffff00"
+                                },
+                                {
+                                    "_id": "5e7fb8bf7f9b24ea00a89edc",
+                                    "name": "y",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#91ff1b"
+                                },
+                                {
+                                    "_id": "5e7fb8bf7f9b24ea00a89edd",
+                                    "name": "z",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#ff2c14"
+                                },
+                                {
+                                    "_id": "5e7fb8bf7f9b24ea00a89ede",
+                                    "name": "diameter",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": null
+                                },
+                                {
+                                    "_id": "5e7fb8bf7f9b24ea00a89edf",
+                                    "name": "x",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#ffff00"
+                                },
+                                {
+                                    "_id": "5e7fb8bf7f9b24ea00a89ee0",
+                                    "name": "y",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#91ff1b"
+                                },
+                                {
+                                    "_id": "5e7fb8bf7f9b24ea00a89ee1",
+                                    "name": "z",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#ff2c14"
+                                },
+                                {
+                                    "_id": "5e7fb8bf7f9b24ea00a89ee2",
+                                    "name": "diameter",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": null
+                                }
+                            ],
+                            "_id": "5e7fb8bf7f9b24ea00a89eda"
+                        }
+                    ],
+                    "_id": "5e7fb8bf7f9b24ea00a89ed9",
+                    "name": "Feature Name E"
+                },
+                {
+                    "control": [
+                        {
+                            "measure": [
+                                {
+                                    "_id": "5e7fb8d07f9b24ea00a89f17",
+                                    "name": "x",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#ffff00"
+                                },
+                                {
+                                    "_id": "5e7fb8d07f9b24ea00a89f18",
+                                    "name": "y",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#91ff1b"
+                                },
+                                {
+                                    "_id": "5e7fb8d07f9b24ea00a89f19",
+                                    "name": "z",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#ff2c14"
+                                },
+                                {
+                                    "_id": "5e7fb8d07f9b24ea00a89f1a",
+                                    "name": "diameter",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": null
+                                },
+                                {
+                                    "_id": "5e7fb8d07f9b24ea00a89f1b",
+                                    "name": "x",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#ffff00"
+                                },
+                                {
+                                    "_id": "5e7fb8d07f9b24ea00a89f1c",
+                                    "name": "y",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#91ff1b"
+                                },
+                                {
+                                    "_id": "5e7fb8d07f9b24ea00a89f1d",
+                                    "name": "z",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": "#ff2c14"
+                                },
+                                {
+                                    "_id": "5e7fb8d07f9b24ea00a89f1e",
+                                    "name": "diameter",
+                                    "dev": 0,
+                                    "devOut": 0,
+                                    "controlColor": null
+                                }
+                            ],
+                            "_id": "5e7fb8d07f9b24ea00a89f16"
+                        }
+                    ],
+                    "_id": "5e7fb8d07f9b24ea00a89f15",
+                    "name": "Feature Name F"
+                }
+            ],
+            "name": "Part A",
+            "__v": 0
+        }
+    ]
+}
